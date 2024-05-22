@@ -66,9 +66,7 @@ iii) Give recommendations on how to retain customers based on the information co
 
 ## UNIVARIATE ANALYSIS.
 # i) What percentage of customers end up leaving?
-![image](https://github.com/kananamuthomi/Phase-3-Project/assets/151963471/80fc5dd9-ca46-43e1-ad80-e3f7b340c6bd)
-
-
+![HU](https://github.com/kananamuthomi/Phase-3-Project/assets/151963471/a1601e1c-189a-42eb-953f-d5b8854c1200)<br>
 
 About 14.5% of SyrialTel customers decide to cancel their subscription with the company.
 # ii) How many people are on the International plan?
